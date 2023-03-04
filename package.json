@@ -29,5 +29,13 @@
   "devDependencies": {
     "concurrently": "^7.3.0",
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahi5051/MahiShop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahi5051/MahiShop/issues"
+  },
+  "homepage": "https://github.com/mahi5051/MahiShop#readme"
 }
